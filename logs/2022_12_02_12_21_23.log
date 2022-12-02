@@ -1,0 +1,4 @@
+[2022-12-02 12:21:23][INFO][Main Program]No message input,please check the value of logger
+[INFO][Test Thread]Hello world!
+[2022-12-02 12:21:23][ERROR][Main Program]Can't load file!
+[2022-12-02 12:21:23][WARN][Main Program]Setting file is broken!
