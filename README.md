@@ -2,6 +2,7 @@
 &copy; BiNb9O3 Stdio 2022
 ##主体部分
 **导入：**
+下载Bilogger.py文件到你的项目目录，并在项目文件中导入Bilogger
 >import Bilogger as bl
 
 介绍文件中所有Bilogger会以bl出现
