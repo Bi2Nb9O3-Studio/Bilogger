@@ -1,6 +1,8 @@
 # Bilogger 铋日志 一个简洁好用的log工具
-&copy; BiNb9O3 Stdio 2022
-##主体部分
+&copy; BiNb9O3 Studio 2022
+
+## 主体部分
+
 **导入：**
 下载Bilogger.py文件到你的项目目录，并在项目文件中导入Bilogger
 >import Bilogger as bl
